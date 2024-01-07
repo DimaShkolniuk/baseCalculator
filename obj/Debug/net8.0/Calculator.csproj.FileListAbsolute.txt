@@ -1,0 +1,15 @@
+/home/dima/C/CsharpBase/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/dima/C/CsharpBase/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/home/dima/C/CsharpBase/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/home/dima/C/CsharpBase/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/home/dima/C/CsharpBase/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/home/dima/C/CsharpBase/Calculator/bin/Debug/net8.0/Calculator
+/home/dima/C/CsharpBase/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/home/dima/C/CsharpBase/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/home/dima/C/CsharpBase/Calculator/bin/Debug/net8.0/Calculator.dll
+/home/dima/C/CsharpBase/Calculator/bin/Debug/net8.0/Calculator.pdb
+/home/dima/C/CsharpBase/Calculator/obj/Debug/net8.0/Calculator.dll
+/home/dima/C/CsharpBase/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/home/dima/C/CsharpBase/Calculator/obj/Debug/net8.0/Calculator.pdb
+/home/dima/C/CsharpBase/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/home/dima/C/CsharpBase/Calculator/obj/Debug/net8.0/ref/Calculator.dll
